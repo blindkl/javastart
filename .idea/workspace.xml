@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="e6ea354f-7156-42e8-a3f6-26f0eb0da288" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BigIntegerBigDecimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/IncrementDecrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/IncrementDecrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BigIntegerBigDecimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/IncrementDecrement.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -14,11 +18,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/CalculatorExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/MinMaxValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Methods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/IncrementDecrement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/BigIntegerBigDecimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,10 +95,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/CalculatorExample.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/IncrementDecrement.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/MinMaxValue.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/Methods.java" />
         <option value="$PROJECT_DIR$/src/main/java/BigIntegerBigDecimal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/IncrementDecrement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/BigIntegerBigDecimalN.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/sda/javastart/BigIntegerBigDecimal.java" />
       </list>
     </option>
   </component>
@@ -108,17 +165,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548529679962" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548530688619" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/kurs/projects" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\blind\Desktop\kurs\projects" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\blind\Desktop\kurs\projects" />
     </key>
   </component>
@@ -134,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CalculatorExample">
+  <component name="RunManager" selected="Application.IncrementDecrement">
     <configuration name="BigIntegerBigDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BigIntegerBigDecimal" />
       <module name="javastart" />
@@ -196,10 +253,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculatorExample" />
-        <item itemvalue="Application.BigIntegerBigDecimal" />
-        <item itemvalue="Application.MinMaxValue" />
         <item itemvalue="Application.IncrementDecrement" />
+        <item itemvalue="Application.CalculatorExample" />
+        <item itemvalue="Application.BigIntegerBigDecimalN" />
+        <item itemvalue="Application.MinMaxValue" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -215,6 +272,21 @@
       <option name="presentableId" value="Default" />
       <updated>1548493634880</updated>
     </task>
+    <task id="LOCAL-00001" summary="methods">
+      <created>1548529659090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548529659090</updated>
+    </task>
+    <task id="LOCAL-00002" summary="methods">
+      <created>1548529728316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548529728317</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -230,7 +302,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3279003" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3279003" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -238,7 +310,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3279003" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3279003" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.3279003" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -249,12 +321,16 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="methods" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/IncrementDecrement.java</url>
-          <line>9</line>
+          <line>7</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
@@ -276,15 +352,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Methods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/kurs/projects/javastart/src/main/java/pl/sda/javastart/Main.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BigIntegerBigDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -296,6 +372,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/CalculatorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/MinMaxValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -303,16 +386,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/IncrementDecrement.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Methods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="46" />
+        <state>
+          <caret selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
+        <state relative-caret-position="714">
           <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -320,17 +403,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/IncrementDecrement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/CalculatorExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/BigIntegerBigDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

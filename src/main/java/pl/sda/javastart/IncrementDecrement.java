@@ -1,9 +1,7 @@
 package pl.sda.javastart;
 
-import javax.sound.midi.Soundbank;
-
 public class IncrementDecrement {
-    public static void main (String [] args) {
+    public static void main (String[] args) {
         int x = 3;
         int y;
 
