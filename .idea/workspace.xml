@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e6ea354f-7156-42e8-a3f6-26f0eb0da288" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BigIntegerBigDecimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/IncrementDecrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/javastart/IncrementDecrement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BigIntegerBigDecimal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sda/javastart/IncrementDecrement.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -69,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/BigIntegerBigDecimal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="425">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,7 +161,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548530688619" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548530932600" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/kurs/projects" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -191,7 +187,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IncrementDecrement">
+  <component name="RunManager" selected="Application.BigIntegerBigDecimal (1)">
+    <configuration name="BigIntegerBigDecimal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.BigIntegerBigDecimal" />
+      <module name="javastart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sda.javastart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BigIntegerBigDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BigIntegerBigDecimal" />
       <module name="javastart" />
@@ -225,19 +234,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.Main" />
-      <module name="javastart" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.sda.javastart.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MinMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.sda.javastart.MinMaxValue" />
       <module name="javastart" />
@@ -253,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BigIntegerBigDecimal (1)" />
         <item itemvalue="Application.IncrementDecrement" />
         <item itemvalue="Application.CalculatorExample" />
         <item itemvalue="Application.BigIntegerBigDecimalN" />
         <item itemvalue="Application.MinMaxValue" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -286,11 +282,19 @@
       <option name="project" value="LOCAL" />
       <updated>1548529728317</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="methods">
+      <created>1548530718059</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548530718059</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22921109" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -412,8 +416,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/sda/javastart/BigIntegerBigDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
