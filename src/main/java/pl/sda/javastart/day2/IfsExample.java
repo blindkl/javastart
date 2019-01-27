@@ -19,7 +19,7 @@ public class IfsExample {
         if ((number % 3 == 0) && (number % 5 == 0)) {
             return true;
         }
-
+        return false;
     }
 
     public static String introduce(String name, int age, boolean male) {
@@ -45,6 +45,16 @@ public class IfsExample {
         } else {
             return false;
         }
+    }
+
+    public static boolean answerCell(boolean mum, boolean isMorning, boolean isAsleep) {
+        if (isAsleep) {
+            return false;
+        }
+        if (isMorning && !mum) {
+            return false;
+        }
+        return true;
     }
 
 }

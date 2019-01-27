@@ -3,10 +3,10 @@ package pl.sda.javastart.day2;
 public class Methods2 {
     public static void main(String[] args) {
         String someText = "8.9";
-        ApplicationUtils.convertToDouble(someText);
-        someText = someText + "  ";
-        ApplicationUtils.convertToDouble(someText);
+        System.out.println(ApplicationUtils.convertToDouble(someText));
+        someText = someText + "   ";
+        System.out.println(ApplicationUtils.convertToDouble(someText));
         someText = null;
-        ApplicationUtils.convertToDoubleObject(someText);
+        System.out.println(ApplicationUtils.convertToDoubleObject(someText));
     }
 }
