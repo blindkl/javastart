@@ -25,10 +25,6 @@ public class ArraysExample {
             }
             System.out.println(i);
         }
-
-        Arrays.stream(anotherTable)
-                .filter(e -> e % 2 != 0)
-                .forEach(e -> System.out.println(e));
     }
 
     public static void printElementsOfArray(int[] tab) {

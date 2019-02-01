@@ -5,7 +5,7 @@ public class IfsExample {
         System.out.println(isEven(42));
         System.out.println(dividableByThreeAndFive(16));
         System.out.println(introduce(" Michal ", 30, true));
-
+        System.out.println(introduceWithTernary(" Anna ", 20, false));
         System.out.println(answerCell(true, true, false));
         System.out.println(switchCalculator(5, 2, '/'));
     }
